@@ -1,0 +1,16 @@
+# Local MySQL for testing:   docker compose up -d
+# Stop it:                   docker compose down        (data is kept in the "mysql_data" volume)
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: map-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: change-me          # must equal MAP_DB_PASS in .env
+    ports:
+      - "3306:3306"
+    command: ["--character-set-server=utf8mb4", "--collation-server=utf8mb4_unicode_ci"]
+    volumes:
+      - mysql_data:/var/lib/mysql
+volumes:
+  mysql_data:

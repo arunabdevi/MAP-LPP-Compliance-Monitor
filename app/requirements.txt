@@ -1,0 +1,16 @@
+streamlit>=1.65
+pandas>=2.0
+numpy
+sqlalchemy>=2.0
+pymysql
+cryptography
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+python-dotenv
+pyyaml
+openpyxl
+lxml
+matplotlib
+reportlab
+requests

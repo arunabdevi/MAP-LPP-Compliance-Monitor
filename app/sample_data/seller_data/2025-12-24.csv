@@ -1,0 +1,603 @@
+SKU,Marketplace,Seller_name,region,adv_price,Screenshot,live_link
+S0279PA,Amazon.in,Zeta Traders,UK,455.65,shots/S0279PA.png,https://x.test/S0279PA
+S0230PA,Flipkart,Alpha Tech,UK,87.98,shots/S0230PA.png,https://x.test/S0230PA
+S0087PA,Amazon.in,Eta Online,CAN,"1,155.43",shots/S0087PA.png,https://x.test/S0087PA
+S0163PA,Flipkart,Zeta Traders,USA,13.37,shots/S0163PA.png,https://x.test/S0163PA
+S0136PA,Flipkart,Gamma Store,USA,127.67,shots/S0136PA.png,https://x.test/S0136PA
+S0078PA,BestBuy,Delta Deals,UK,6.54,shots/S0078PA.png,https://x.test/S0078PA
+S0064PA,Amazon.com,Gamma Store,India,"13,372.88",shots/S0064PA.png,https://x.test/S0064PA
+S0048PA,Walmart,Epsilon Retail,UK,448.49,shots/S0048PA.png,https://x.test/S0048PA
+S0071PA,Flipkart,Gamma Store,UAE,514.79,shots/S0071PA.png,https://x.test/S0071PA
+S0281PA,Amazon.com,Delta Deals,CAN,73.11,shots/S0281PA.png,https://x.test/S0281PA
+S0088PA,Amazon.com,Beta Mart US,CAN,174.88,shots/S0088PA.png,https://x.test/S0088PA
+S0066PA,Flipkart,Kappa Gadgets,UAE,42.69,shots/S0066PA.png,https://x.test/S0066PA
+S0286PA,Flipkart,Epsilon Retail,CAN,444.18,shots/S0286PA.png,https://x.test/S0286PA
+S0039PA,BestBuy,Kappa Gadgets,India,"74,505.89",shots/S0039PA.png,https://x.test/S0039PA
+S0297PA,Amazon.com,Epsilon Retail,India,"24,085.38",shots/S0297PA.png,https://x.test/S0297PA
+S0060PA,Flipkart,Eta Online,UK,367.45,shots/S0060PA.png,https://x.test/S0060PA
+S0149PA,BestBuy,Kappa Gadgets,CAN,67.22,shots/S0149PA.png,https://x.test/S0149PA
+S0201PA,BestBuy,Iota Bazaar,UAE,805.87,shots/S0201PA.png,https://x.test/S0201PA
+S0246PA,Amazon.com,ALPHA TECH,CAN,13.76,shots/S0246PA.png,https://x.test/S0246PA
+S0190PA,Amazon.com,Kappa Gadgets,CAN,297.24,shots/S0190PA.png,https://x.test/S0190PA
+S0119PA,Amazon.in,Alpha Tech,CAN,227.78,shots/S0119PA.png,https://x.test/S0119PA
+S0289PA,BestBuy,Gamma Store,UAE,"1,841.23",shots/S0289PA.png,https://x.test/S0289PA
+S0211PA,Amazon.com,Eta Online,UK,11.18,shots/S0211PA.png,https://x.test/S0211PA
+S0194PA,Amazon.in,Gamma Store,UK,95.67,shots/S0194PA.png,https://x.test/S0194PA
+S0202PA,Amazon.in,Eta Online,UAE,"1,121.17",shots/S0202PA.png,https://x.test/S0202PA
+S0290PA,BestBuy,Epsilon Retail,CAN,232.88,shots/S0290PA.png,https://x.test/S0290PA
+S0098PA,Flipkart,ALPHA TECH,USA,137.03,shots/S0098PA.png,https://x.test/S0098PA
+S0172PA,Amazon.in,Alpha Tech,USA,147.84,shots/S0172PA.png,https://x.test/S0172PA
+S0258PA,Amazon.com,ALPHA TECH,UK,4.50,shots/S0258PA.png,https://x.test/S0258PA
+S0239PA,Amazon.com,Alpha Tech,USA,122.12,shots/S0239PA.png,https://x.test/S0239PA
+S0269PA,BestBuy,Zeta Traders,UK,24.36,shots/S0269PA.png,https://x.test/S0269PA
+S0140PA,Walmart,Beta Mart US,India,"5,775.49",shots/S0140PA.png,https://x.test/S0140PA
+S0200PA,Flipkart,Beta Mart US,India,"9,463.87",shots/S0200PA.png,https://x.test/S0200PA
+S0174PA,Flipkart,Epsilon Retail,UK,9.82,shots/S0174PA.png,https://x.test/S0174PA
+S0141PA,BestBuy,Gamma Store,USA,112.65,shots/S0141PA.png,https://x.test/S0141PA
+S0060PA,Amazon.in,Gamma Store ,CAN,568.16,shots/S0060PA.png,https://x.test/S0060PA
+S0225PA,Amazon.in,Zeta Traders,UAE,707.78,shots/S0225PA.png,https://x.test/S0225PA
+S0146PA,Amazon.com,Zeta Traders,UK,93.47,shots/S0146PA.png,https://x.test/S0146PA
+S0292PA,Flipkart,Zeta Traders,UK,82.54,shots/S0292PA.png,https://x.test/S0292PA
+S0277PA,Amazon.com,Beta Mart US,USA,667.13,shots/S0277PA.png,https://x.test/S0277PA
+S0093PA,Amazon.in,Eta Online,USA,248.78,shots/S0093PA.png,https://x.test/S0093PA
+S0007PA,Amazon.in,Theta Hub,UK,11.07,shots/S0007PA.png,https://x.test/S0007PA
+S0083PA,Amazon.com,Theta Hub,UAE,666.31,shots/S0083PA.png,https://x.test/S0083PA
+S0043PA,Walmart,Alpha Tech Pvt Ltd,UK,8.15,shots/S0043PA.png,https://x.test/S0043PA
+S0171PA,BestBuy,Alpha Tech,CAN,955.70,shots/S0171PA.png,https://x.test/S0171PA
+S0108PA,Amazon.in,Gamma Store ,UAE,"1,435.67",shots/S0108PA.png,https://x.test/S0108PA
+S0289PA,Flipkart,Zeta Traders,UAE,"2,327.48",shots/S0289PA.png,https://x.test/S0289PA
+S0097PA,Flipkart,Beta Mart,CAN,972.27,shots/S0097PA.png,https://x.test/S0097PA
+S0051PA,Amazon.com,Iota Bazaar,USA,524.66,shots/S0051PA.png,https://x.test/S0051PA
+S0152PA,Amazon.com,Zeta Traders,India,"9,083.76",shots/S0152PA.png,https://x.test/S0152PA
+S0269PA,Amazon.in,Kappa Gadgets,CAN,62.22,shots/S0269PA.png,https://x.test/S0269PA
+S0267PA,Amazon.in,Kappa Gadgets,UAE,"2,655.91",shots/S0267PA.png,https://x.test/S0267PA
+S0067PA,Amazon.com,Beta Mart,UAE,66.08,shots/S0067PA.png,https://x.test/S0067PA
+S0044PA,Amazon.in,Beta Mart,UK,61.33,shots/S0044PA.png,https://x.test/S0044PA
+S0011PA,Flipkart,Beta Mart US,UAE,464.33,shots/S0011PA.png,https://x.test/S0011PA
+S0280PA,BestBuy,Gamma Store,CAN,161.49,shots/S0280PA.png,https://x.test/S0280PA
+S0229PA,Amazon.com,Beta Mart US,UAE,"2,348.60",shots/S0229PA.png,https://x.test/S0229PA
+S0210PA,BestBuy,Eta Online,UAE,52.69,shots/S0210PA.png,https://x.test/S0210PA
+S0247PA,BestBuy,Beta Mart US,USA,16.86,shots/S0247PA.png,https://x.test/S0247PA
+S0270PA,BestBuy,Kappa Gadgets,India,"1,109.97",shots/S0270PA.png,https://x.test/S0270PA
+S0127PA,BestBuy,Zeta Traders,India,"1,204.67",shots/S0127PA.png,https://x.test/S0127PA
+S0084PA,Amazon.com,ALPHA TECH,UK,249.51,shots/S0084PA.png,https://x.test/S0084PA
+S0001PA,BestBuy,Epsilon Retail,USA,523.26,shots/S0001PA.png,https://x.test/S0001PA
+S0248PA,Flipkart,Delta Deals,UAE,368.02,shots/S0248PA.png,https://x.test/S0248PA
+S0282PA,Amazon.in,Beta Mart,India,"1,020.09",shots/S0282PA.png,https://x.test/S0282PA
+S0252PA,Amazon.in,Delta Deals,UAE,"1,880.65",shots/S0252PA.png,https://x.test/S0252PA
+S0118PA,Amazon.in,Epsilon Retail,UAE,"1,040.36",shots/S0118PA.png,https://x.test/S0118PA
+S0218PA,Walmart,Eta Online,UK,132.27,shots/S0218PA.png,https://x.test/S0218PA
+S0293PA,Amazon.com,Beta Mart,UK,29.05,shots/S0293PA.png,https://x.test/S0293PA
+S0087PA,Flipkart,Alpha Tech,India,"58,677.67",shots/S0087PA.png,https://x.test/S0087PA
+S0022PA,Walmart,Alpha Tech,India,"20,998.21",shots/S0022PA.png,https://x.test/S0022PA
+S0132PA,BestBuy,Gamma Store,India,"27,429.53",shots/S0132PA.png,https://x.test/S0132PA
+S0043PA,BestBuy,Epsilon Retail,UK,10.51,shots/S0043PA.png,https://x.test/S0043PA
+S0204PA,Walmart,Epsilon Retail,CAN,709.11,shots/S0204PA.png,https://x.test/S0204PA
+S0199PA,Amazon.in,ALPHA TECH,UK,9.12,shots/S0199PA.png,https://x.test/S0199PA
+S0246PA,BestBuy,Alpha Tech,USA,7.47,shots/S0246PA.png,https://x.test/S0246PA
+S0016PA,Walmart,Kappa Gadgets,India,"16,035.21",shots/S0016PA.png,https://x.test/S0016PA
+S0029PA,Walmart,Epsilon Retail,UK,37.85,shots/S0029PA.png,https://x.test/S0029PA
+S0111PA,BestBuy,Beta Mart,UK,475.12,shots/S0111PA.png,https://x.test/S0111PA
+S0153PA,BestBuy,Theta Hub,UK,185.88,shots/S0153PA.png,https://x.test/S0153PA
+S0057PA,BestBuy,Eta Online,India,"22,394.26",shots/S0057PA.png,https://x.test/S0057PA
+S0223PA,Amazon.in,Iota Bazaar,CAN,22.55,shots/S0223PA.png,https://x.test/S0223PA
+S0220PA,Amazon.com,Epsilon Retail,UAE,614.85,shots/S0220PA.png,https://x.test/S0220PA
+S0084PA,Walmart,Epsilon Retail,UK,315.86,shots/S0084PA.png,https://x.test/S0084PA
+S0150PA,Amazon.in,Gamma Store ,UAE,36.86,shots/S0150PA.png,https://x.test/S0150PA
+S0225PA,Flipkart,Iota Bazaar,India,"20,507.81",shots/S0225PA.png,https://x.test/S0225PA
+S0176PA,Walmart,Zeta Traders,UAE,331.66,shots/S0176PA.png,https://x.test/S0176PA
+S0298PA,Amazon.com,Gamma Store,India,"22,055.30",shots/S0298PA.png,https://x.test/S0298PA
+S0032PA,Walmart,Theta Hub,India,"9,140.77",shots/S0032PA.png,https://x.test/S0032PA
+S0206PA,Amazon.in,Theta Hub,UAE,460.00,shots/S0206PA.png,https://x.test/S0206PA
+S0177PA,Walmart,Beta Mart,USA,191.67,shots/S0177PA.png,https://x.test/S0177PA
+S0222PA,Amazon.in,Beta Mart US,UK,8.78,shots/S0222PA.png,https://x.test/S0222PA
+S0116PA,Amazon.com,Delta Deals,CAN,123.64,shots/S0116PA.png,https://x.test/S0116PA
+S0050PA,Amazon.in,Beta Mart,UAE,645.06,shots/S0050PA.png,https://x.test/S0050PA
+S0139PA,BestBuy,Epsilon Retail,CAN,15.85,shots/S0139PA.png,https://x.test/S0139PA
+S0272PA,Amazon.in,Beta Mart,UAE,461.74,shots/S0272PA.png,https://x.test/S0272PA
+S0266PA,Flipkart,Theta Hub,India,"8,348.29",shots/S0266PA.png,https://x.test/S0266PA
+S0070PA,BestBuy,ALPHA TECH,India,"14,701.75",shots/S0070PA.png,https://x.test/S0070PA
+S0258PA,Flipkart,Eta Online,UK,4.93,shots/S0258PA.png,https://x.test/S0258PA
+S0196PA,BestBuy,Alpha Tech,UAE,497.88,shots/S0196PA.png,https://x.test/S0196PA
+S0253PA,Amazon.com,Epsilon Retail,USA,406.47,shots/S0253PA.png,https://x.test/S0253PA
+S0192PA,Amazon.in,Gamma Store,UK,239.13,shots/S0192PA.png,https://x.test/S0192PA
+S0263PA,Flipkart,Zeta Traders,UK,88.09,shots/S0263PA.png,https://x.test/S0263PA
+S0174PA,Amazon.com,Alpha Tech Pvt Ltd,CAN,15.11,shots/S0174PA.png,https://x.test/S0174PA
+S0237PA,Walmart,Alpha Tech Pvt Ltd,CAN,204.87,shots/S0237PA.png,https://x.test/S0237PA
+S0201PA,Flipkart,Kappa Gadgets,UK,171.31,shots/S0201PA.png,https://x.test/S0201PA
+S0091PA,BestBuy,Delta Deals,USA,18.10,shots/S0091PA.png,https://x.test/S0091PA
+S0129PA,Flipkart,Eta Online,India,"18,487.32",shots/S0129PA.png,https://x.test/S0129PA
+S0173PA,Flipkart,Eta Online,UK,39.25,shots/S0173PA.png,https://x.test/S0173PA
+S0241PA,Walmart,Alpha Tech Pvt Ltd,India,"37,693.61",shots/S0241PA.png,https://x.test/S0241PA
+S0257PA,BestBuy,Epsilon Retail,USA,46.61,shots/S0257PA.png,https://x.test/S0257PA
+S0195PA,Amazon.in,Beta Mart,CAN,"1,175.37",shots/S0195PA.png,https://x.test/S0195PA
+S0070PA,Amazon.in,Eta Online,CAN,278.81,shots/S0070PA.png,https://x.test/S0070PA
+S0278PA,BestBuy,Alpha Tech Pvt Ltd,UAE,345.26,shots/S0278PA.png,https://x.test/S0278PA
+S0207PA,Amazon.in,Theta Hub,USA,748.99,shots/S0207PA.png,https://x.test/S0207PA
+S0290PA,Walmart,Beta Mart,India,"16,521.70",shots/S0290PA.png,https://x.test/S0290PA
+S0255PA,Flipkart,Alpha Tech Pvt Ltd,India,"37,158.94",shots/S0255PA.png,https://x.test/S0255PA
+S0004PA,Amazon.in,ALPHA TECH,India,"12,696.22",shots/S0004PA.png,https://x.test/S0004PA
+S0124PA,Amazon.com,Beta Mart US,UAE,439.22,shots/S0124PA.png,https://x.test/S0124PA
+S0289PA,Flipkart,Theta Hub,USA,780.48,shots/S0289PA.png,https://x.test/S0289PA
+S0272PA,BestBuy,Zeta Traders,CAN,95.77,shots/S0272PA.png,https://x.test/S0272PA
+S0056PA,BestBuy,Beta Mart US,USA,89.66,shots/S0056PA.png,https://x.test/S0056PA
+S0089PA,Flipkart,ALPHA TECH,UAE,145.83,shots/S0089PA.png,https://x.test/S0089PA
+S0263PA,Walmart,Theta Hub,India,"17,445.57",shots/S0263PA.png,https://x.test/S0263PA
+S0197PA,Amazon.com,Theta Hub,India,"4,395.03",shots/S0197PA.png,https://x.test/S0197PA
+S0154PA,BestBuy,Epsilon Retail,UK,179.55,shots/S0154PA.png,https://x.test/S0154PA
+S0287PA,Amazon.com,Beta Mart US,India,"16,118.24",shots/S0287PA.png,https://x.test/S0287PA
+S0227PA,BestBuy,Kappa Gadgets,UK,89.48,shots/S0227PA.png,https://x.test/S0227PA
+S0193PA,Walmart,Iota Bazaar,USA,462.41,shots/S0193PA.png,https://x.test/S0193PA
+S0175PA,BestBuy,Kappa Gadgets,USA,13.30,shots/S0175PA.png,https://x.test/S0175PA
+S0063PA,Flipkart,Theta Hub,USA,444.05,shots/S0063PA.png,https://x.test/S0063PA
+S0220PA,Walmart,Alpha Tech,UK,83.31,shots/S0220PA.png,https://x.test/S0220PA
+S0157PA,Walmart,Epsilon Retail,UK,355.63,shots/S0157PA.png,https://x.test/S0157PA
+S0230PA,Flipkart,Epsilon Retail,India,"12,966.43",shots/S0230PA.png,https://x.test/S0230PA
+S0190PA,Flipkart,Gamma Store,USA,146.72,shots/S0190PA.png,https://x.test/S0190PA
+S0086PA,Amazon.com,Delta Deals,USA,117.87,shots/S0086PA.png,https://x.test/S0086PA
+S0139PA,BestBuy,Epsilon Retail,India,"1,228.99",shots/S0139PA.png,https://x.test/S0139PA
+S0217PA,Amazon.com,Kappa Gadgets,USA,444.14,shots/S0217PA.png,https://x.test/S0217PA
+S0196PA,Amazon.in,Epsilon Retail,UK,143.99,shots/S0196PA.png,https://x.test/S0196PA
+S0117PA,Amazon.com,Gamma Store ,India,"15,289.96",shots/S0117PA.png,https://x.test/S0117PA
+S0179PA,Amazon.in,Epsilon Retail,India,"14,081.17",shots/S0179PA.png,https://x.test/S0179PA
+S0264PA,Flipkart,Zeta Traders,UK,361.19,shots/S0264PA.png,https://x.test/S0264PA
+S0040PA,Flipkart,Epsilon Retail,UK,121.13,shots/S0040PA.png,https://x.test/S0040PA
+S0050PA,Amazon.com,Delta Deals,USA,157.96,shots/S0050PA.png,https://x.test/S0050PA
+S0027PA,Amazon.com,Kappa Gadgets,UK,627.51,shots/S0027PA.png,https://x.test/S0027PA
+S0218PA,Amazon.in,Gamma Store,USA,122.49,shots/S0218PA.png,https://x.test/S0218PA
+S0065PA,Walmart,Eta Online,UK,32.64,shots/S0065PA.png,https://x.test/S0065PA
+S0044PA,Amazon.com,Kappa Gadgets,USA,89.59,shots/S0044PA.png,https://x.test/S0044PA
+S0063PA,Amazon.in,ALPHA TECH,India,"49,850.82",shots/S0063PA.png,https://x.test/S0063PA
+S0193PA,Amazon.com,Delta Deals,CAN,733.19,shots/S0193PA.png,https://x.test/S0193PA
+S0119PA,BestBuy,Gamma Store,India,"13,441.90",shots/S0119PA.png,https://x.test/S0119PA
+S0076PA,Flipkart,ALPHA TECH,UK,84.25,shots/S0076PA.png,https://x.test/S0076PA
+S0071PA,BestBuy,Alpha Tech,UK,116.60,shots/S0071PA.png,https://x.test/S0071PA
+S0149PA,Walmart,Beta Mart US,CAN,58.59,shots/S0149PA.png,https://x.test/S0149PA
+S0212PA,Walmart,Gamma Store,CAN,102.04,shots/S0212PA.png,https://x.test/S0212PA
+S0218PA,Walmart,Alpha Tech Pvt Ltd,UAE,482.00,shots/S0218PA.png,https://x.test/S0218PA
+S0119PA,Amazon.com,Kappa Gadgets,UAE,668.85,shots/S0119PA.png,https://x.test/S0119PA
+S0004PA,Amazon.com,Alpha Tech Pvt Ltd,USA,122.40,shots/S0004PA.png,https://x.test/S0004PA
+S0255PA,Amazon.in,Gamma Store,USA,450.69,shots/S0255PA.png,https://x.test/S0255PA
+S0038PA,Amazon.com,Epsilon Retail,UK,74.57,shots/S0038PA.png,https://x.test/S0038PA
+S0263PA,Walmart,Epsilon Retail,CAN,272.55,shots/S0263PA.png,https://x.test/S0263PA
+S0248PA,Amazon.in,Epsilon Retail,CAN,159.31,shots/S0248PA.png,https://x.test/S0248PA
+S0061PA,BestBuy,ALPHA TECH,CAN,654.40,shots/S0061PA.png,https://x.test/S0061PA
+S0276PA,Walmart,Theta Hub,USA,549.09,shots/S0276PA.png,https://x.test/S0276PA
+S0250PA,Walmart,Eta Online,CAN,312.16,shots/S0250PA.png,https://x.test/S0250PA
+S0126PA,Flipkart,Alpha Tech Pvt Ltd,UK,5.78,shots/S0126PA.png,https://x.test/S0126PA
+S0175PA,Amazon.in,Gamma Store,UAE,46.36,shots/S0175PA.png,https://x.test/S0175PA
+S0034PA,BestBuy,Gamma Store ,UK,94.84,shots/S0034PA.png,https://x.test/S0034PA
+S0268PA,Walmart,Zeta Traders,CAN,210.65,shots/S0268PA.png,https://x.test/S0268PA
+S0181PA,Amazon.in,Iota Bazaar,UK,415.45,shots/S0181PA.png,https://x.test/S0181PA
+S0193PA,Amazon.in,ALPHA TECH,UK,256.09,shots/S0193PA.png,https://x.test/S0193PA
+S0004PA,BestBuy,Iota Bazaar,CAN,253.52,shots/S0004PA.png,https://x.test/S0004PA
+S0061PA,Walmart,Gamma Store,UK,308.74,shots/S0061PA.png,https://x.test/S0061PA
+S0298PA,Amazon.com,Zeta Traders,USA,237.82,shots/S0298PA.png,https://x.test/S0298PA
+S0039PA,Amazon.com,ALPHA TECH,UK,425.96,shots/S0039PA.png,https://x.test/S0039PA
+S0267PA,BestBuy,Beta Mart,USA,762.20,shots/S0267PA.png,https://x.test/S0267PA
+S0143PA,Amazon.in,Kappa Gadgets,CAN,257.12,shots/S0143PA.png,https://x.test/S0143PA
+S0096PA,Amazon.com,ALPHA TECH,CAN,447.14,shots/S0096PA.png,https://x.test/S0096PA
+S0297PA,Amazon.in,Gamma Store ,UAE,466.82,shots/S0297PA.png,https://x.test/S0297PA
+S0276PA,Flipkart,Iota Bazaar,UAE,"1,633.21",shots/S0276PA.png,https://x.test/S0276PA
+S0064PA,Amazon.in,Gamma Store,USA,119.56,shots/S0064PA.png,https://x.test/S0064PA
+S0159PA,Amazon.in,Alpha Tech Pvt Ltd,USA,522.81,shots/S0159PA.png,https://x.test/S0159PA
+S0012PA,Amazon.com,ALPHA TECH,India,"30,645.79",shots/S0012PA.png,https://x.test/S0012PA
+S0225PA,Walmart,Gamma Store ,UAE,555.60,shots/S0225PA.png,https://x.test/S0225PA
+S0106PA,Flipkart,ALPHA TECH,CAN,192.50,shots/S0106PA.png,https://x.test/S0106PA
+S0098PA,Amazon.in,Eta Online,CAN,276.96,shots/S0098PA.png,https://x.test/S0098PA
+S0011PA,Amazon.in,Eta Online,USA,123.94,shots/S0011PA.png,https://x.test/S0011PA
+S0113PA,Amazon.in,ALPHA TECH,UAE,159.65,shots/S0113PA.png,https://x.test/S0113PA
+S0265PA,Walmart,Kappa Gadgets,India,"53,718.26",shots/S0265PA.png,https://x.test/S0265PA
+S0092PA,Walmart,Beta Mart US,CAN,191.72,shots/S0092PA.png,https://x.test/S0092PA
+S0247PA,Flipkart,Iota Bazaar,India,"1,851.42",shots/S0247PA.png,https://x.test/S0247PA
+S0082PA,Flipkart,Alpha Tech Pvt Ltd,India,"11,197.77",shots/S0082PA.png,https://x.test/S0082PA
+S0167PA,Amazon.com,ALPHA TECH,USA,146.69,shots/S0167PA.png,https://x.test/S0167PA
+S0098PA,Amazon.in,Zeta Traders,UAE,356.81,shots/S0098PA.png,https://x.test/S0098PA
+S0155PA,Amazon.com,Delta Deals,UK,105.66,shots/S0155PA.png,https://x.test/S0155PA
+S0174PA,BestBuy,Gamma Store,India,888.08,shots/S0174PA.png,https://x.test/S0174PA
+S0118PA,BestBuy,Zeta Traders,India,"24,922.92",shots/S0118PA.png,https://x.test/S0118PA
+S0289PA,BestBuy,Gamma Store ,USA,585.48,shots/S0289PA.png,https://x.test/S0289PA
+S0014PA,Amazon.com,Zeta Traders,UK,94.45,shots/S0014PA.png,https://x.test/S0014PA
+S0030PA,Walmart,Epsilon Retail,USA,6.62,shots/S0030PA.png,https://x.test/S0030PA
+S0286PA,BestBuy,Gamma Store,UAE,870.08,shots/S0286PA.png,https://x.test/S0286PA
+S0253PA,Amazon.in,Zeta Traders,UK,301.40,shots/S0253PA.png,https://x.test/S0253PA
+S0291PA,Amazon.in,Kappa Gadgets,UK,396.76,shots/S0291PA.png,https://x.test/S0291PA
+S0020PA,BestBuy,Iota Bazaar,UAE,373.78,shots/S0020PA.png,https://x.test/S0020PA
+S0174PA,BestBuy,Theta Hub,USA,12.40,shots/S0174PA.png,https://x.test/S0174PA
+S0220PA,Walmart,Theta Hub,USA,136.93,shots/S0220PA.png,https://x.test/S0220PA
+S0281PA,Walmart,Zeta Traders,India,"2,602.58",shots/S0281PA.png,https://x.test/S0281PA
+S0109PA,Flipkart,Beta Mart US,CAN,840.09,shots/S0109PA.png,https://x.test/S0109PA
+S0035PA,Walmart,Kappa Gadgets,UK,118.97,shots/S0035PA.png,https://x.test/S0035PA
+S0028PA,Amazon.in,Gamma Store,UK,75.57,shots/S0028PA.png,https://x.test/S0028PA
+S0036PA,BestBuy,ALPHA TECH,UK,278.26,shots/S0036PA.png,https://x.test/S0036PA
+S0216PA,Amazon.in,ALPHA TECH,USA,267.55,shots/S0216PA.png,https://x.test/S0216PA
+S0108PA,Amazon.in,Beta Mart US,India,"46,445.88",shots/S0108PA.png,https://x.test/S0108PA
+S0047PA,Walmart,Theta Hub,USA,170.91,shots/S0047PA.png,https://x.test/S0047PA
+S0133PA,BestBuy,Delta Deals,CAN,850.48,shots/S0133PA.png,https://x.test/S0133PA
+S0113PA,Amazon.in,Alpha Tech Pvt Ltd,India,"3,230.98",shots/S0113PA.png,https://x.test/S0113PA
+S0060PA,Amazon.com,Alpha Tech Pvt Ltd,USA,475.71,shots/S0060PA.png,https://x.test/S0060PA
+S0272PA,Walmart,Zeta Traders,UK,87.09,shots/S0272PA.png,https://x.test/S0272PA
+S0287PA,Flipkart,Kappa Gadgets,UAE,350.85,shots/S0287PA.png,https://x.test/S0287PA
+S0157PA,BestBuy,Gamma Store ,UAE,"1,166.94",shots/S0157PA.png,https://x.test/S0157PA
+S0033PA,BestBuy,Delta Deals,UK,132.19,shots/S0033PA.png,https://x.test/S0033PA
+S0297PA,BestBuy,Gamma Store ,USA,160.14,shots/S0297PA.png,https://x.test/S0297PA
+S0176PA,Amazon.com,ALPHA TECH,UK,47.83,shots/S0176PA.png,https://x.test/S0176PA
+S0058PA,Walmart,Alpha Tech,UK,143.41,shots/S0058PA.png,https://x.test/S0058PA
+S0250PA,BestBuy,Iota Bazaar,CAN,320.05,shots/S0250PA.png,https://x.test/S0250PA
+S0214PA,Walmart,Beta Mart US,UK,207.02,shots/S0214PA.png,https://x.test/S0214PA
+S0292PA,BestBuy,Alpha Tech,UAE,384.01,shots/S0292PA.png,https://x.test/S0292PA
+S0247PA,Amazon.in,Theta Hub,India,"1,436.13",shots/S0247PA.png,https://x.test/S0247PA
+S0281PA,Amazon.in,Delta Deals,India,"4,406.55",shots/S0281PA.png,https://x.test/S0281PA
+S0090PA,Walmart,ALPHA TECH,USA,7.84,shots/S0090PA.png,https://x.test/S0090PA
+S0195PA,Flipkart,Iota Bazaar,UK,660.55,shots/S0195PA.png,https://x.test/S0195PA
+S0215PA,Amazon.in,Eta Online,UK,95.22,shots/S0215PA.png,https://x.test/S0215PA
+S0014PA,Flipkart,Gamma Store ,CAN,141.01,shots/S0014PA.png,https://x.test/S0014PA
+S0154PA,Flipkart,Alpha Tech,UAE,526.74,shots/S0154PA.png,https://x.test/S0154PA
+S0115PA,BestBuy,Beta Mart,USA,6.61,shots/S0115PA.png,https://x.test/S0115PA
+S0047PA,Amazon.com,Kappa Gadgets,UK,136.61,shots/S0047PA.png,https://x.test/S0047PA
+S0168PA,Amazon.in,ALPHA TECH,UK,284.23,shots/S0168PA.png,https://x.test/S0168PA
+S0134PA,BestBuy,Gamma Store,CAN,110.83,shots/S0134PA.png,https://x.test/S0134PA
+S0126PA,Amazon.com,Epsilon Retail,UAE,31.94,shots/S0126PA.png,https://x.test/S0126PA
+S0168PA,Amazon.com,Beta Mart,USA,297.73,shots/S0168PA.png,https://x.test/S0168PA
+S0251PA,Walmart,Alpha Tech,UAE,375.78,shots/S0251PA.png,https://x.test/S0251PA
+S0104PA,BestBuy,Epsilon Retail,UK,82.30,shots/S0104PA.png,https://x.test/S0104PA
+S0292PA,BestBuy,ALPHA TECH,UK,95.95,shots/S0292PA.png,https://x.test/S0292PA
+S0228PA,BestBuy,Gamma Store,India,"44,797.76",shots/S0228PA.png,https://x.test/S0228PA
+S0287PA,Amazon.in,Beta Mart,UK,127.72,shots/S0287PA.png,https://x.test/S0287PA
+S0234PA,Flipkart,Epsilon Retail,UK,10.68,shots/S0234PA.png,https://x.test/S0234PA
+S0207PA,Flipkart,Beta Mart US,USA,783.60,shots/S0207PA.png,https://x.test/S0207PA
+S0139PA,Amazon.com,Delta Deals,CAN,19.00,shots/S0139PA.png,https://x.test/S0139PA
+S0199PA,Flipkart,Beta Mart,UK,13.10,shots/S0199PA.png,https://x.test/S0199PA
+S0271PA,Flipkart,ALPHA TECH,UAE,41.20,shots/S0271PA.png,https://x.test/S0271PA
+S0267PA,Amazon.com,ALPHA TECH,CAN,690.12,shots/S0267PA.png,https://x.test/S0267PA
+S0178PA,BestBuy,Theta Hub,UAE,729.82,shots/S0178PA.png,https://x.test/S0178PA
+S0222PA,Walmart,Eta Online,UK,9.69,shots/S0222PA.png,https://x.test/S0222PA
+S0131PA,BestBuy,Eta Online,CAN,218.22,shots/S0131PA.png,https://x.test/S0131PA
+S0018PA,BestBuy,Zeta Traders,India,"1,087.83",shots/S0018PA.png,https://x.test/S0018PA
+S0224PA,Flipkart,Theta Hub,India,"8,907.49",shots/S0224PA.png,https://x.test/S0224PA
+S0295PA,BestBuy,Gamma Store ,UAE,37.18,shots/S0295PA.png,https://x.test/S0295PA
+S0128PA,Flipkart,Beta Mart US,UK,71.38,shots/S0128PA.png,https://x.test/S0128PA
+S0028PA,Amazon.in,Beta Mart,CAN,183.55,shots/S0028PA.png,https://x.test/S0028PA
+S0212PA,BestBuy,Beta Mart US,UAE,349.11,shots/S0212PA.png,https://x.test/S0212PA
+S0242PA,Amazon.com,Gamma Store,UK,65.51,shots/S0242PA.png,https://x.test/S0242PA
+S0230PA,Amazon.com,Gamma Store ,UK,78.86,shots/S0230PA.png,https://x.test/S0230PA
+S0277PA,Amazon.com,Zeta Traders,CAN,709.09,shots/S0277PA.png,https://x.test/S0277PA
+S0271PA,BestBuy,Delta Deals,UK,10.83,shots/S0271PA.png,https://x.test/S0271PA
+S0127PA,Walmart,Iota Bazaar,UK,8.69,shots/S0127PA.png,https://x.test/S0127PA
+S0271PA,Walmart,Delta Deals,India,"1,330.54",shots/S0271PA.png,https://x.test/S0271PA
+S0115PA,Flipkart,Alpha Tech,UK,6.47,shots/S0115PA.png,https://x.test/S0115PA
+S0220PA,Flipkart,Delta Deals,UK,111.18,shots/S0220PA.png,https://x.test/S0220PA
+S0243PA,Amazon.com,Delta Deals,UAE,"2,943.84",shots/S0243PA.png,https://x.test/S0243PA
+S0156PA,Flipkart,Iota Bazaar,CAN,717.31,shots/S0156PA.png,https://x.test/S0156PA
+S0177PA,Walmart,Gamma Store,UK,120.57,shots/S0177PA.png,https://x.test/S0177PA
+S0084PA,Walmart,Beta Mart,India,"41,094.19",shots/S0084PA.png,https://x.test/S0084PA
+S0299PA,BestBuy,Theta Hub,UAE,672.73,shots/S0299PA.png,https://x.test/S0299PA
+S0185PA,BestBuy,ALPHA TECH,UAE,134.35,shots/S0185PA.png,https://x.test/S0185PA
+S0128PA,Flipkart,Delta Deals,USA,83.53,shots/S0128PA.png,https://x.test/S0128PA
+S0115PA,Walmart,Beta Mart US,UK,9.35,shots/S0115PA.png,https://x.test/S0115PA
+S0238PA,BestBuy,Eta Online,USA,155.74,shots/S0238PA.png,https://x.test/S0238PA
+S0143PA,Walmart,ALPHA TECH,USA,159.10,shots/S0143PA.png,https://x.test/S0143PA
+S0071PA,Walmart,Alpha Tech Pvt Ltd,CAN,184.36,shots/S0071PA.png,https://x.test/S0071PA
+S0180PA,Flipkart,Theta Hub,UK,250.90,shots/S0180PA.png,https://x.test/S0180PA
+S0185PA,Walmart,ALPHA TECH,India,"3,373.81",shots/S0185PA.png,https://x.test/S0185PA
+S0100PA,Amazon.in,Delta Deals,UK,125.44,shots/S0100PA.png,https://x.test/S0100PA
+S0154PA,Flipkart,ALPHA TECH,CAN,264.64,shots/S0154PA.png,https://x.test/S0154PA
+S0193PA,BestBuy,Zeta Traders,India,"34,857.12",shots/S0193PA.png,https://x.test/S0193PA
+S0198PA,Flipkart,Eta Online,UAE,41.26,shots/S0198PA.png,https://x.test/S0198PA
+S0277PA,Amazon.com,Epsilon Retail,USA,531.65,shots/S0277PA.png,https://x.test/S0277PA
+S0132PA,BestBuy,Delta Deals,USA,388.57,shots/S0132PA.png,https://x.test/S0132PA
+S0037PA,Flipkart,Theta Hub,UAE,"1,789.99",shots/S0037PA.png,https://x.test/S0037PA
+S0195PA,Flipkart,ALPHA TECH,India,"53,322.14",shots/S0195PA.png,https://x.test/S0195PA
+S0004PA,Flipkart,Kappa Gadgets,UK,116.59,shots/S0004PA.png,https://x.test/S0004PA
+S0074PA,Walmart,Alpha Tech,CAN,178.86,shots/S0074PA.png,https://x.test/S0074PA
+S0291PA,Walmart,Eta Online,UK,228.62,shots/S0291PA.png,https://x.test/S0291PA
+S0256PA,Walmart,Alpha Tech Pvt Ltd,UAE,444.35,shots/S0256PA.png,https://x.test/S0256PA
+S0193PA,BestBuy,Epsilon Retail,USA,421.76,shots/S0193PA.png,https://x.test/S0193PA
+S0150PA,Walmart,Alpha Tech,USA,10.23,shots/S0150PA.png,https://x.test/S0150PA
+S0142PA,BestBuy,Alpha Tech Pvt Ltd,CAN,259.81,shots/S0142PA.png,https://x.test/S0142PA
+S0276PA,Amazon.in,Alpha Tech Pvt Ltd,UK,266.87,shots/S0276PA.png,https://x.test/S0276PA
+S0060PA,Walmart,Beta Mart,India,"61,215.98",shots/S0060PA.png,https://x.test/S0060PA
+S0150PA,Amazon.com,Epsilon Retail,UK,6.78,shots/S0150PA.png,https://x.test/S0150PA
+S0180PA,Walmart,Gamma Store ,USA,306.08,shots/S0180PA.png,https://x.test/S0180PA
+S0172PA,Walmart,Gamma Store ,CAN,234.13,shots/S0172PA.png,https://x.test/S0172PA
+S0085PA,BestBuy,Epsilon Retail,USA,482.76,shots/S0085PA.png,https://x.test/S0085PA
+S0284PA,Amazon.com,Theta Hub,UK,74.29,shots/S0284PA.png,https://x.test/S0284PA
+S0033PA,Walmart,Beta Mart,India,"14,428.36",shots/S0033PA.png,https://x.test/S0033PA
+S0025PA,BestBuy,ALPHA TECH,UK,325.46,shots/S0025PA.png,https://x.test/S0025PA
+S0244PA,Amazon.com,Iota Bazaar,UK,128.84,shots/S0244PA.png,https://x.test/S0244PA
+S0223PA,Amazon.in,Gamma Store,UAE,43.66,shots/S0223PA.png,https://x.test/S0223PA
+S0297PA,Amazon.com,Epsilon Retail,UAE,732.23,shots/S0297PA.png,https://x.test/S0297PA
+S0067PA,Walmart,Alpha Tech Pvt Ltd,UAE,53.98,shots/S0067PA.png,https://x.test/S0067PA
+S0283PA,Walmart,Beta Mart US,UAE,36.14,shots/S0283PA.png,https://x.test/S0283PA
+S0049PA,BestBuy,ALPHA TECH,UK,319.06,shots/S0049PA.png,https://x.test/S0049PA
+S0267PA,Walmart,Beta Mart,India,"55,172.70",shots/S0267PA.png,https://x.test/S0267PA
+S0007PA,Amazon.com,Kappa Gadgets,CAN,20.16,shots/S0007PA.png,https://x.test/S0007PA
+S0051PA,Amazon.in,Gamma Store ,CAN,654.47,shots/S0051PA.png,https://x.test/S0051PA
+S0170PA,Walmart,Gamma Store,India,"10,870.52",shots/S0170PA.png,https://x.test/S0170PA
+S0075PA,Amazon.in,Beta Mart US,USA,555.32,shots/S0075PA.png,https://x.test/S0075PA
+S0062PA,Walmart,Zeta Traders,UAE,610.69,shots/S0062PA.png,https://x.test/S0062PA
+S0219PA,Walmart,Kappa Gadgets,UAE,"2,761.49",shots/S0219PA.png,https://x.test/S0219PA
+S0135PA,Walmart,Alpha Tech,CAN,921.86,shots/S0135PA.png,https://x.test/S0135PA
+S0043PA,Flipkart,Alpha Tech,CAN,17.35,shots/S0043PA.png,https://x.test/S0043PA
+S0206PA,Flipkart,Iota Bazaar,UK,90.00,shots/S0206PA.png,https://x.test/S0206PA
+S0213PA,Amazon.com,Eta Online,India,"22,467.06",shots/S0213PA.png,https://x.test/S0213PA
+S0147PA,Flipkart,Zeta Traders,UK,452.76,shots/S0147PA.png,https://x.test/S0147PA
+S0254PA,Flipkart,Kappa Gadgets,USA,147.09,shots/S0254PA.png,https://x.test/S0254PA
+S0007PA,Walmart,Gamma Store,UK,7.77,shots/S0007PA.png,https://x.test/S0007PA
+S0027PA,BestBuy,Beta Mart,UAE,"2,306.56",shots/S0027PA.png,https://x.test/S0027PA
+S0065PA,Walmart,Delta Deals,India,"4,193.31",shots/S0065PA.png,https://x.test/S0065PA
+S0254PA,BestBuy,Alpha Tech Pvt Ltd,CAN,159.17,shots/S0254PA.png,https://x.test/S0254PA
+S0114PA,Amazon.in,Gamma Store ,CAN,14.30,shots/S0114PA.png,https://x.test/S0114PA
+S0024PA,Walmart,Zeta Traders,India,"33,152.60",shots/S0024PA.png,https://x.test/S0024PA
+S0253PA,Amazon.com,Alpha Tech,USA,344.92,shots/S0253PA.png,https://x.test/S0253PA
+S0061PA,Amazon.in,Beta Mart US,UAE,"2,033.04",shots/S0061PA.png,https://x.test/S0061PA
+S0126PA,Amazon.in,ALPHA TECH,CAN,9.44,shots/S0126PA.png,https://x.test/S0126PA
+S0009PA,Amazon.in,Gamma Store,UK,133.57,shots/S0009PA.png,https://x.test/S0009PA
+S0126PA,BestBuy,Kappa Gadgets,CAN,11.10,shots/S0126PA.png,https://x.test/S0126PA
+S0185PA,Amazon.in,Kappa Gadgets,CAN,56.24,shots/S0185PA.png,https://x.test/S0185PA
+S0209PA,BestBuy,Zeta Traders,CAN,82.37,shots/S0209PA.png,https://x.test/S0209PA
+S0153PA,Flipkart,Iota Bazaar,India,"27,245.60",shots/S0153PA.png,https://x.test/S0153PA
+S0008PA,BestBuy,Theta Hub,UAE,350.77,shots/S0008PA.png,https://x.test/S0008PA
+S0051PA,Flipkart,Alpha Tech Pvt Ltd,UK,353.50,shots/S0051PA.png,https://x.test/S0051PA
+S0293PA,Flipkart,Kappa Gadgets,USA,43.99,shots/S0293PA.png,https://x.test/S0293PA
+S0166PA,BestBuy,Alpha Tech,USA,178.17,shots/S0166PA.png,https://x.test/S0166PA
+S0170PA,Walmart,Beta Mart,UK,87.34,shots/S0170PA.png,https://x.test/S0170PA
+S0160PA,BestBuy,Delta Deals,UAE,767.53,shots/S0160PA.png,https://x.test/S0160PA
+S0194PA,Flipkart,Beta Mart US,CAN,214.24,shots/S0194PA.png,https://x.test/S0194PA
+S0145PA,Walmart,Theta Hub,USA,505.56,shots/S0145PA.png,https://x.test/S0145PA
+S0161PA,BestBuy,Alpha Tech,CAN,56.10,shots/S0161PA.png,https://x.test/S0161PA
+S0204PA,Walmart,Gamma Store ,UK,238.55,shots/S0204PA.png,https://x.test/S0204PA
+S0088PA,BestBuy,Iota Bazaar,CAN,179.66,shots/S0088PA.png,https://x.test/S0088PA
+S0032PA,BestBuy,Iota Bazaar,USA,123.87,shots/S0032PA.png,https://x.test/S0032PA
+S0087PA,Amazon.in,Gamma Store ,UAE,"2,104.52",shots/S0087PA.png,https://x.test/S0087PA
+S0135PA,Walmart,Gamma Store,CAN,863.21,shots/S0135PA.png,https://x.test/S0135PA
+S0006PA,Flipkart,Beta Mart,India,680.63,shots/S0006PA.png,https://x.test/S0006PA
+S0269PA,Walmart,Delta Deals,CAN,68.24,shots/S0269PA.png,https://x.test/S0269PA
+S0265PA,BestBuy,Beta Mart,USA,767.51,shots/S0265PA.png,https://x.test/S0265PA
+S0179PA,Amazon.in,ALPHA TECH,India,"8,133.77",shots/S0179PA.png,https://x.test/S0179PA
+S0269PA,Flipkart,Kappa Gadgets,UAE,151.15,shots/S0269PA.png,https://x.test/S0269PA
+S0176PA,Walmart,ALPHA TECH,CAN,102.29,shots/S0176PA.png,https://x.test/S0176PA
+S0253PA,Flipkart,Epsilon Retail,USA,257.98,shots/S0253PA.png,https://x.test/S0253PA
+S0106PA,Amazon.in,ALPHA TECH,UAE,543.68,shots/S0106PA.png,https://x.test/S0106PA
+S0214PA,Flipkart,Zeta Traders,CAN,396.02,shots/S0214PA.png,https://x.test/S0214PA
+S0183PA,Flipkart,Gamma Store,USA,480.65,shots/S0183PA.png,https://x.test/S0183PA
+S0220PA,Amazon.com,Alpha Tech Pvt Ltd,UAE,350.80,shots/S0220PA.png,https://x.test/S0220PA
+S0230PA,Walmart,Kappa Gadgets,UK,79.60,shots/S0230PA.png,https://x.test/S0230PA
+S0279PA,Walmart,Kappa Gadgets,UAE,"2,375.40",shots/S0279PA.png,https://x.test/S0279PA
+S0217PA,Walmart,Iota Bazaar,UK,426.21,shots/S0217PA.png,https://x.test/S0217PA
+S0153PA,Walmart,Alpha Tech Pvt Ltd,India,"19,779.28",shots/S0153PA.png,https://x.test/S0153PA
+S0051PA,Amazon.com,Epsilon Retail,USA,550.56,shots/S0051PA.png,https://x.test/S0051PA
+S0270PA,BestBuy,Zeta Traders,USA,12.30,shots/S0270PA.png,https://x.test/S0270PA
+S0132PA,BestBuy,Gamma Store ,USA,293.15,shots/S0132PA.png,https://x.test/S0132PA
+S0059PA,Amazon.in,Delta Deals,India,"18,633.76",shots/S0059PA.png,https://x.test/S0059PA
+S0010PA,Flipkart,ALPHA TECH,India,"15,606.93",shots/S0010PA.png,https://x.test/S0010PA
+S0189PA,Flipkart,ALPHA TECH,UAE,546.28,shots/S0189PA.png,https://x.test/S0189PA
+S0268PA,Walmart,Delta Deals,CAN,209.18,shots/S0268PA.png,https://x.test/S0268PA
+S0154PA,BestBuy,Alpha Tech Pvt Ltd,USA,162.51,shots/S0154PA.png,https://x.test/S0154PA
+S0016PA,Walmart,Gamma Store,UK,94.36,shots/S0016PA.png,https://x.test/S0016PA
+S0013PA,Amazon.com,Alpha Tech,UK,459.75,shots/S0013PA.png,https://x.test/S0013PA
+S0241PA,Flipkart,Zeta Traders,USA,471.72,shots/S0241PA.png,https://x.test/S0241PA
+S0278PA,Flipkart,Iota Bazaar,USA,158.34,shots/S0278PA.png,https://x.test/S0278PA
+S0214PA,Walmart,Epsilon Retail,CAN,316.63,shots/S0214PA.png,https://x.test/S0214PA
+S0235PA,BestBuy,Alpha Tech Pvt Ltd,USA,9.49,shots/S0235PA.png,https://x.test/S0235PA
+S0027PA,Amazon.com,Beta Mart US,USA,832.34,shots/S0027PA.png,https://x.test/S0027PA
+S0107PA,Walmart,Gamma Store ,CAN,189.49,shots/S0107PA.png,https://x.test/S0107PA
+S0269PA,Walmart,Iota Bazaar,UAE,170.22,shots/S0269PA.png,https://x.test/S0269PA
+S0213PA,Amazon.in,Zeta Traders,USA,272.58,shots/S0213PA.png,https://x.test/S0213PA
+S0217PA,Amazon.in,Kappa Gadgets,USA,504.77,shots/S0217PA.png,https://x.test/S0217PA
+S0014PA,Walmart,Zeta Traders,UK,81.50,shots/S0014PA.png,https://x.test/S0014PA
+S0225PA,BestBuy,Beta Mart,UAE,899.21,shots/S0225PA.png,https://x.test/S0225PA
+S0257PA,Amazon.com,Delta Deals,India,"4,637.29",shots/S0257PA.png,https://x.test/S0257PA
+S0169PA,BestBuy,Beta Mart US,India,"56,066.91",shots/S0169PA.png,https://x.test/S0169PA
+S0148PA,Amazon.com,Gamma Store ,India,"11,970.06",shots/S0148PA.png,https://x.test/S0148PA
+S0217PA,Amazon.com,Kappa Gadgets,India,"52,337.23",shots/S0217PA.png,https://x.test/S0217PA
+S0061PA,BestBuy,Gamma Store,India,"45,516.28",shots/S0061PA.png,https://x.test/S0061PA
+S0196PA,BestBuy,Gamma Store,USA,152.32,shots/S0196PA.png,https://x.test/S0196PA
+S0148PA,Walmart,Delta Deals,USA,171.21,shots/S0148PA.png,https://x.test/S0148PA
+S0265PA,Flipkart,Alpha Tech Pvt Ltd,USA,451.53,shots/S0265PA.png,https://x.test/S0265PA
+S0102PA,Walmart,Alpha Tech Pvt Ltd,UAE,26.25,shots/S0102PA.png,https://x.test/S0102PA
+S0131PA,Flipkart,Alpha Tech,CAN,151.87,shots/S0131PA.png,https://x.test/S0131PA
+S0061PA,Amazon.com,Eta Online,India,"50,620.08",shots/S0061PA.png,https://x.test/S0061PA
+S0249PA,Amazon.in,Gamma Store,UAE,689.42,shots/S0249PA.png,https://x.test/S0249PA
+S0069PA,Flipkart,Gamma Store,UAE,545.89,shots/S0069PA.png,https://x.test/S0069PA
+S0145PA,Amazon.com,Zeta Traders,India,"55,591.83",shots/S0145PA.png,https://x.test/S0145PA
+S0222PA,Flipkart,Alpha Tech,India,"1,082.79",shots/S0222PA.png,https://x.test/S0222PA
+S0121PA,BestBuy,Gamma Store,India,"42,741.70",shots/S0121PA.png,https://x.test/S0121PA
+S0184PA,BestBuy,Epsilon Retail,UK,151.57,shots/S0184PA.png,https://x.test/S0184PA
+S0023PA,BestBuy,Gamma Store ,USA,125.58,shots/S0023PA.png,https://x.test/S0023PA
+S0166PA,Walmart,Theta Hub,USA,269.80,shots/S0166PA.png,https://x.test/S0166PA
+S0159PA,Amazon.com,Gamma Store,UK,412.76,shots/S0159PA.png,https://x.test/S0159PA
+S0280PA,BestBuy,ALPHA TECH,CAN,188.32,shots/S0280PA.png,https://x.test/S0280PA
+S0059PA,BestBuy,Theta Hub,UK,145.64,shots/S0059PA.png,https://x.test/S0059PA
+S0229PA,Flipkart,Theta Hub,CAN,874.50,shots/S0229PA.png,https://x.test/S0229PA
+S0161PA,BestBuy,Zeta Traders,UAE,175.54,shots/S0161PA.png,https://x.test/S0161PA
+S0102PA,Flipkart,Epsilon Retail,USA,10.62,shots/S0102PA.png,https://x.test/S0102PA
+S0098PA,Walmart,Zeta Traders,UK,72.80,shots/S0098PA.png,https://x.test/S0098PA
+S0026PA,Walmart,Beta Mart,UK,92.11,shots/S0026PA.png,https://x.test/S0026PA
+S0146PA,Walmart,Zeta Traders,India,"9,994.64",shots/S0146PA.png,https://x.test/S0146PA
+S0284PA,BestBuy,Beta Mart,CAN,177.25,shots/S0284PA.png,https://x.test/S0284PA
+S0119PA,Amazon.in,Epsilon Retail,UK,108.93,shots/S0119PA.png,https://x.test/S0119PA
+S0172PA,Amazon.in,Iota Bazaar,UAE,713.50,shots/S0172PA.png,https://x.test/S0172PA
+S0215PA,Flipkart,Epsilon Retail,UAE,515.07,shots/S0215PA.png,https://x.test/S0215PA
+S0255PA,Amazon.com,ALPHA TECH,India,"38,279.80",shots/S0255PA.png,https://x.test/S0255PA
+S0028PA,Flipkart,Theta Hub,USA,168.66,shots/S0028PA.png,https://x.test/S0028PA
+S0275PA,Amazon.in,Beta Mart US,India,"15,883.26",shots/S0275PA.png,https://x.test/S0275PA
+S0269PA,Amazon.in,Alpha Tech,USA,33.04,shots/S0269PA.png,https://x.test/S0269PA
+S0164PA,Walmart,Gamma Store,India,"5,572.50",shots/S0164PA.png,https://x.test/S0164PA
+S0078PA,Walmart,Delta Deals,India,736.98,shots/S0078PA.png,https://x.test/S0078PA
+S0082PA,Amazon.com,Epsilon Retail,USA,139.39,shots/S0082PA.png,https://x.test/S0082PA
+S0135PA,Flipkart,ALPHA TECH,CAN,839.37,shots/S0135PA.png,https://x.test/S0135PA
+S0172PA,Flipkart,Beta Mart,USA,193.04,shots/S0172PA.png,https://x.test/S0172PA
+S0258PA,Walmart,ALPHA TECH,UK,5.10,shots/S0258PA.png,https://x.test/S0258PA
+S0091PA,Amazon.in,Eta Online,UAE,66.78,shots/S0091PA.png,https://x.test/S0091PA
+S0164PA,Amazon.in,Gamma Store ,CAN,75.75,shots/S0164PA.png,https://x.test/S0164PA
+S0053PA,Flipkart,Delta Deals,USA,45.54,shots/S0053PA.png,https://x.test/S0053PA
+S0158PA,Flipkart,Beta Mart,CAN,213.89,shots/S0158PA.png,https://x.test/S0158PA
+S0222PA,Walmart,Gamma Store ,USA,9.93,shots/S0222PA.png,https://x.test/S0222PA
+S0009PA,Walmart,ALPHA TECH,USA,157.26,shots/S0009PA.png,https://x.test/S0009PA
+S0127PA,Amazon.com,ALPHA TECH,India,788.09,shots/S0127PA.png,https://x.test/S0127PA
+S0080PA,Flipkart,Theta Hub,UK,70.26,shots/S0080PA.png,https://x.test/S0080PA
+S0188PA,Amazon.in,Beta Mart US,India,"11,243.68",shots/S0188PA.png,https://x.test/S0188PA
+S0254PA,Amazon.in,Epsilon Retail,CAN,226.25,shots/S0254PA.png,https://x.test/S0254PA
+S0241PA,Walmart,Zeta Traders,CAN,931.51,shots/S0241PA.png,https://x.test/S0241PA
+S0089PA,Amazon.com,ALPHA TECH,UK,30.37,shots/S0089PA.png,https://x.test/S0089PA
+S0276PA,Amazon.com,Beta Mart,USA,498.23,shots/S0276PA.png,https://x.test/S0276PA
+S0180PA,Flipkart,Zeta Traders,UK,163.18,shots/S0180PA.png,https://x.test/S0180PA
+S0116PA,Walmart,Theta Hub,UAE,444.01,shots/S0116PA.png,https://x.test/S0116PA
+S0262PA,Amazon.in,Zeta Traders,India,"21,254.76",shots/S0262PA.png,https://x.test/S0262PA
+S0271PA,Walmart,Gamma Store,UAE,34.90,shots/S0271PA.png,https://x.test/S0271PA
+S0119PA,Flipkart,Beta Mart US,India,"16,850.61",shots/S0119PA.png,https://x.test/S0119PA
+S0116PA,BestBuy,Theta Hub,UK,96.79,shots/S0116PA.png,https://x.test/S0116PA
+S0107PA,BestBuy,Gamma Store,UAE,450.93,shots/S0107PA.png,https://x.test/S0107PA
+S0154PA,Amazon.in,Gamma Store ,CAN,223.71,shots/S0154PA.png,https://x.test/S0154PA
+S0217PA,Amazon.in,Delta Deals,CAN,600.08,shots/S0217PA.png,https://x.test/S0217PA
+S0138PA,Flipkart,Alpha Tech,India,681.15,shots/S0138PA.png,https://x.test/S0138PA
+S0038PA,BestBuy,Alpha Tech,UK,86.24,shots/S0038PA.png,https://x.test/S0038PA
+S0291PA,Walmart,Iota Bazaar,UK,463.87,shots/S0291PA.png,https://x.test/S0291PA
+S0180PA,Flipkart,Epsilon Retail,UK,293.09,shots/S0180PA.png,https://x.test/S0180PA
+S0127PA,Amazon.com,Kappa Gadgets,USA,11.77,shots/S0127PA.png,https://x.test/S0127PA
+S0274PA,BestBuy,Gamma Store ,UAE,910.34,shots/S0274PA.png,https://x.test/S0274PA
+S0299PA,Flipkart,Epsilon Retail,USA,203.39,shots/S0299PA.png,https://x.test/S0299PA
+S0016PA,Flipkart,Kappa Gadgets,CAN,291.11,shots/S0016PA.png,https://x.test/S0016PA
+S0018PA,BestBuy,Iota Bazaar,UAE,44.31,shots/S0018PA.png,https://x.test/S0018PA
+S0257PA,BestBuy,Gamma Store,UAE,173.16,shots/S0257PA.png,https://x.test/S0257PA
+S0232PA,BestBuy,Zeta Traders,CAN,214.95,shots/S0232PA.png,https://x.test/S0232PA
+S0130PA,Amazon.in,Gamma Store,India,"15,309.60",shots/S0130PA.png,https://x.test/S0130PA
+S0039PA,Amazon.com,Kappa Gadgets,CAN,955.10,shots/S0039PA.png,https://x.test/S0039PA
+S0139PA,Flipkart,Theta Hub,India,"1,173.64",shots/S0139PA.png,https://x.test/S0139PA
+S0056PA,Amazon.com,Delta Deals,UK,56.26,shots/S0056PA.png,https://x.test/S0056PA
+S0044PA,BestBuy,Gamma Store,CAN,78.75,shots/S0044PA.png,https://x.test/S0044PA
+S0250PA,Amazon.com,ALPHA TECH,USA,201.03,shots/S0250PA.png,https://x.test/S0250PA
+S0149PA,Flipkart,Beta Mart US,India,"4,026.30",shots/S0149PA.png,https://x.test/S0149PA
+S0029PA,Amazon.com,Delta Deals,India,"5,207.32",shots/S0029PA.png,https://x.test/S0029PA
+S0203PA,Walmart,Beta Mart US,CAN,277.95,shots/S0203PA.png,https://x.test/S0203PA
+S0187PA,Walmart,ALPHA TECH,UAE,44.90,shots/S0187PA.png,https://x.test/S0187PA
+S0097PA,Walmart,Beta Mart,UK,501.63,shots/S0097PA.png,https://x.test/S0097PA
+S0071PA,Amazon.in,Alpha Tech Pvt Ltd,USA,146.10,shots/S0071PA.png,https://x.test/S0071PA
+S0008PA,Amazon.in,Alpha Tech,India,"5,183.91",shots/S0008PA.png,https://x.test/S0008PA
+S0076PA,Amazon.com,Alpha Tech,CAN,164.62,shots/S0076PA.png,https://x.test/S0076PA
+S0053PA,Amazon.com,Alpha Tech Pvt Ltd,UAE,131.94,shots/S0053PA.png,https://x.test/S0053PA
+S0100PA,Amazon.in,Epsilon Retail,CAN,198.08,shots/S0100PA.png,https://x.test/S0100PA
+S0281PA,Amazon.com,Beta Mart US,CAN,69.20,shots/S0281PA.png,https://x.test/S0281PA
+S0032PA,BestBuy,Iota Bazaar,India,"11,444.36",shots/S0032PA.png,https://x.test/S0032PA
+S0122PA,Amazon.com,Eta Online,India,"11,192.55",shots/S0122PA.png,https://x.test/S0122PA
+S0032PA,Flipkart,Theta Hub,CAN,148.45,shots/S0032PA.png,https://x.test/S0032PA
+S0007PA,Amazon.com,Gamma Store,UK,9.01,shots/S0007PA.png,https://x.test/S0007PA
+S0145PA,Amazon.com,Alpha Tech Pvt Ltd,USA,411.62,shots/S0145PA.png,https://x.test/S0145PA
+S0210PA,Amazon.in,Kappa Gadgets,UK,8.67,shots/S0210PA.png,https://x.test/S0210PA
+S0136PA,Walmart,Gamma Store,India,"14,208.11",shots/S0136PA.png,https://x.test/S0136PA
+S0296PA,Flipkart,Iota Bazaar,UK,53.37,shots/S0296PA.png,https://x.test/S0296PA
+S0206PA,Flipkart,Kappa Gadgets,India,"12,655.86",shots/S0206PA.png,https://x.test/S0206PA
+S0031PA,Walmart,Theta Hub,USA,13.80,shots/S0031PA.png,https://x.test/S0031PA
+S0196PA,Flipkart,Gamma Store,UK,103.43,shots/S0196PA.png,https://x.test/S0196PA
+S0188PA,BestBuy,Iota Bazaar,USA,113.96,shots/S0188PA.png,https://x.test/S0188PA
+S0218PA,Amazon.com,Theta Hub,UK,130.41,shots/S0218PA.png,https://x.test/S0218PA
+S0029PA,BestBuy,Gamma Store,UK,28.31,shots/S0029PA.png,https://x.test/S0029PA
+S0214PA,Amazon.com,Kappa Gadgets,UK,201.48,shots/S0214PA.png,https://x.test/S0214PA
+S0195PA,Amazon.in,Eta Online,UAE,"3,201.37",shots/S0195PA.png,https://x.test/S0195PA
+S0127PA,Flipkart,Theta Hub,CAN,14.45,shots/S0127PA.png,https://x.test/S0127PA
+S0089PA,Walmart,Beta Mart US,UK,35.05,shots/S0089PA.png,https://x.test/S0089PA
+S0185PA,Amazon.in,Eta Online,CAN,72.30,shots/S0185PA.png,https://x.test/S0185PA
+S0067PA,Flipkart,Delta Deals,USA,19.20,shots/S0067PA.png,https://x.test/S0067PA
+S0229PA,Flipkart,Epsilon Retail,CAN,"1,023.31",shots/S0229PA.png,https://x.test/S0229PA
+S0103PA,BestBuy,Beta Mart,UK,9.35,shots/S0103PA.png,https://x.test/S0103PA
+S0219PA,Amazon.in,Zeta Traders,USA,659.15,shots/S0219PA.png,https://x.test/S0219PA
+S0055PA,Flipkart,Alpha Tech Pvt Ltd,USA,11.36,shots/S0055PA.png,https://x.test/S0055PA
+S0097PA,Amazon.in,Delta Deals,India,"39,028.14",shots/S0097PA.png,https://x.test/S0097PA
+S0121PA,Amazon.in,ALPHA TECH,USA,473.41,shots/S0121PA.png,https://x.test/S0121PA
+S0240PA,Walmart,Delta Deals,UAE,"1,485.13",shots/S0240PA.png,https://x.test/S0240PA
+S0047PA,BestBuy,Gamma Store ,CAN,221.38,shots/S0047PA.png,https://x.test/S0047PA
+S0282PA,Walmart,Kappa Gadgets,UAE,37.73,shots/S0282PA.png,https://x.test/S0282PA
+S0020PA,Amazon.in,Alpha Tech Pvt Ltd,UAE,395.05,shots/S0020PA.png,https://x.test/S0020PA
+S0000PA,Amazon.in,Iota Bazaar,India,"35,330.21",shots/S0000PA.png,https://x.test/S0000PA
+S0201PA,Amazon.com,Epsilon Retail,CAN,363.98,shots/S0201PA.png,https://x.test/S0201PA
+S0003PA,Flipkart,Zeta Traders,UK,338.28,shots/S0003PA.png,https://x.test/S0003PA
+S0232PA,BestBuy,Gamma Store ,USA,131.13,shots/S0232PA.png,https://x.test/S0232PA
+S0085PA,Amazon.in,Gamma Store,UK,270.38,shots/S0085PA.png,https://x.test/S0085PA
+S0072PA,Amazon.com,Beta Mart US,CAN,754.58,shots/S0072PA.png,https://x.test/S0072PA
+S0139PA,Walmart,Alpha Tech Pvt Ltd,UK,8.53,shots/S0139PA.png,https://x.test/S0139PA
+S0008PA,Walmart,Beta Mart,USA,76.95,shots/S0008PA.png,https://x.test/S0008PA
+S0123PA,BestBuy,Gamma Store,CAN,725.82,shots/S0123PA.png,https://x.test/S0123PA
+S0024PA,Walmart,Zeta Traders,CAN,478.47,shots/S0024PA.png,https://x.test/S0024PA
+S0024PA,BestBuy,Alpha Tech Pvt Ltd,UK,246.49,shots/S0024PA.png,https://x.test/S0024PA
+S0216PA,Flipkart,ALPHA TECH,India,"28,327.28",shots/S0216PA.png,https://x.test/S0216PA
+S0231PA,Amazon.com,Kappa Gadgets,India,"67,720.03",shots/S0231PA.png,https://x.test/S0231PA
+S0131PA,Flipkart,ALPHA TECH,CAN,137.32,shots/S0131PA.png,https://x.test/S0131PA
+S0074PA,Amazon.com,Epsilon Retail,USA,179.15,shots/S0074PA.png,https://x.test/S0074PA
+S0214PA,BestBuy,ALPHA TECH,UAE,660.12,shots/S0214PA.png,https://x.test/S0214PA
+S0211PA,Amazon.in,Iota Bazaar,USA,14.87,shots/S0211PA.png,https://x.test/S0211PA
+S0226PA,BestBuy,Kappa Gadgets,UK,136.87,shots/S0226PA.png,https://x.test/S0226PA
+S0170PA,Flipkart,Gamma Store ,CAN,188.04,shots/S0170PA.png,https://x.test/S0170PA
+S0247PA,BestBuy,Delta Deals,India,"1,716.35",shots/S0247PA.png,https://x.test/S0247PA
+S0024PA,Amazon.in,Gamma Store,UK,230.69,shots/S0024PA.png,https://x.test/S0024PA
+S0202PA,BestBuy,Epsilon Retail,USA,251.59,shots/S0202PA.png,https://x.test/S0202PA
+S0034PA,Amazon.in,Delta Deals,India,"20,354.84",shots/S0034PA.png,https://x.test/S0034PA
+S0113PA,BestBuy,Kappa Gadgets,UK,38.24,shots/S0113PA.png,https://x.test/S0113PA
+S0120PA,Amazon.in,Beta Mart US,CAN,532.70,shots/S0120PA.png,https://x.test/S0120PA
+S0164PA,BestBuy,Alpha Tech Pvt Ltd,USA,77.70,shots/S0164PA.png,https://x.test/S0164PA
+S0243PA,BestBuy,Zeta Traders,UK,449.54,shots/S0243PA.png,https://x.test/S0243PA
+S0039PA,Flipkart,Alpha Tech,CAN,650.27,shots/S0039PA.png,https://x.test/S0039PA
+S0068PA,Walmart,Zeta Traders,USA,95.36,shots/S0068PA.png,https://x.test/S0068PA
+S0195PA,Walmart,Alpha Tech Pvt Ltd,India,"59,161.39",shots/S0195PA.png,https://x.test/S0195PA
+S0278PA,BestBuy,Alpha Tech,CAN,136.38,shots/S0278PA.png,https://x.test/S0278PA
+S0295PA,Flipkart,Alpha Tech Pvt Ltd,UK,8.35,shots/S0295PA.png,https://x.test/S0295PA
+S0092PA,Amazon.com,Theta Hub,India,"9,855.51",shots/S0092PA.png,https://x.test/S0092PA
+S0119PA,Flipkart,Kappa Gadgets,USA,211.56,shots/S0119PA.png,https://x.test/S0119PA
+S0272PA,Amazon.in,Beta Mart,UK,88.85,shots/S0272PA.png,https://x.test/S0272PA
+S0028PA,BestBuy,Epsilon Retail,USA,153.42,shots/S0028PA.png,https://x.test/S0028PA
+S0261PA,Amazon.in,Beta Mart,USA,214.02,shots/S0261PA.png,https://x.test/S0261PA
+S0299PA,Amazon.com,Alpha Tech,CAN,232.10,shots/S0299PA.png,https://x.test/S0299PA
+S0192PA,Walmart,Beta Mart US,USA,338.20,shots/S0192PA.png,https://x.test/S0192PA
+S0214PA,BestBuy,Iota Bazaar,India,"24,426.31",shots/S0214PA.png,https://x.test/S0214PA
+S0060PA,Amazon.in,Beta Mart US,CAN,564.65,shots/S0060PA.png,https://x.test/S0060PA
+S0089PA,BestBuy,Eta Online,UAE,185.00,shots/S0089PA.png,https://x.test/S0089PA
+S0047PA,Amazon.in,Kappa Gadgets,UAE,639.05,shots/S0047PA.png,https://x.test/S0047PA
+S0176PA,Walmart,Beta Mart,CAN,116.05,shots/S0176PA.png,https://x.test/S0176PA
+S0267PA,Walmart,Alpha Tech Pvt Ltd,UAE,"1,889.34",shots/S0267PA.png,https://x.test/S0267PA
+S0101PA,Flipkart,Alpha Tech,UK,26.61,shots/S0101PA.png,https://x.test/S0101PA
+S0162PA,BestBuy,ALPHA TECH,India,791.57,shots/S0162PA.png,https://x.test/S0162PA
+S0233PA,Walmart,Gamma Store,UK,32.34,shots/S0233PA.png,https://x.test/S0233PA
+S0052PA,Amazon.com,Epsilon Retail,UAE,638.07,shots/S0052PA.png,https://x.test/S0052PA
+S0137PA,Flipkart,Epsilon Retail,UAE,153.17,shots/S0137PA.png,https://x.test/S0137PA
+S0076PA,BestBuy,Zeta Traders,UAE,594.19,shots/S0076PA.png,https://x.test/S0076PA
+S0054PA,Amazon.in,Gamma Store ,USA,6.24,shots/S0054PA.png,https://x.test/S0054PA
+S0151PA,Flipkart,Theta Hub,UK,9.09,shots/S0151PA.png,https://x.test/S0151PA
+S0031PA,Amazon.com,Theta Hub,UAE,53.92,shots/S0031PA.png,https://x.test/S0031PA
+S0122PA,Flipkart,Gamma Store ,CAN,106.91,shots/S0122PA.png,https://x.test/S0122PA
+S0124PA,Amazon.in,Delta Deals,UK,73.80,shots/S0124PA.png,https://x.test/S0124PA
+S0163PA,Amazon.com,Beta Mart US,UAE,52.83,shots/S0163PA.png,https://x.test/S0163PA
+S0230PA,Amazon.in,Epsilon Retail,India,"8,650.07",shots/S0230PA.png,https://x.test/S0230PA
+S0229PA,Flipkart,Eta Online,USA,667.47,shots/S0229PA.png,https://x.test/S0229PA
+S0153PA,Walmart,Gamma Store,UK,115.42,shots/S0153PA.png,https://x.test/S0153PA
+S0095PA,Amazon.com,Kappa Gadgets,India,"15,319.25",shots/S0095PA.png,https://x.test/S0095PA
+S0214PA,Amazon.com,Gamma Store ,UK,143.66,shots/S0214PA.png,https://x.test/S0214PA
+S0136PA,Walmart,Zeta Traders,India,"13,468.77",shots/S0136PA.png,https://x.test/S0136PA
+S0216PA,Flipkart,Gamma Store,CAN,447.67,shots/S0216PA.png,https://x.test/S0216PA
+S0016PA,BestBuy,Beta Mart,UK,140.37,shots/S0016PA.png,https://x.test/S0016PA
+S0280PA,Amazon.com,ALPHA TECH,UK,90.69,shots/S0280PA.png,https://x.test/S0280PA
+S0295PA,Amazon.in,ALPHA TECH,CAN,12.40,shots/S0295PA.png,https://x.test/S0295PA
+S0230PA,Amazon.com,Epsilon Retail,UK,98.31,shots/S0230PA.png,https://x.test/S0230PA
+S0096PA,Amazon.in,Eta Online,UAE,"1,817.98",shots/S0096PA.png,https://x.test/S0096PA
+S0021PA,BestBuy,Zeta Traders,USA,143.05,shots/S0021PA.png,https://x.test/S0021PA
+S0243PA,Amazon.com,Alpha Tech,UK,469.97,shots/S0243PA.png,https://x.test/S0243PA
+S0284PA,Flipkart,Kappa Gadgets,UAE,402.58,shots/S0284PA.png,https://x.test/S0284PA
+S0131PA,Walmart,Kappa Gadgets,CAN,198.89,shots/S0131PA.png,https://x.test/S0131PA
+S0299PA,Flipkart,Alpha Tech,CAN,245.48,shots/S0299PA.png,https://x.test/S0299PA
+S0185PA,Amazon.in,Gamma Store,CAN,58.23,shots/S0185PA.png,https://x.test/S0185PA
+S0248PA,Walmart,Gamma Store,UAE,261.61,shots/S0248PA.png,https://x.test/S0248PA
+S0148PA,BestBuy,ALPHA TECH,India,"10,221.81",shots/S0148PA.png,https://x.test/S0148PA
+S0218PA,Amazon.com,Gamma Store ,India,"11,895.76",shots/S0218PA.png,https://x.test/S0218PA
+S0238PA,Amazon.in,Gamma Store,UK,137.40,shots/S0238PA.png,https://x.test/S0238PA
+S0256PA,Walmart,Kappa Gadgets,USA,142.66,shots/S0256PA.png,https://x.test/S0256PA
+S0210PA,BestBuy,Alpha Tech,UAE,31.63,shots/S0210PA.png,https://x.test/S0210PA
+S0235PA,BestBuy,Epsilon Retail,UAE,47.90,shots/S0235PA.png,https://x.test/S0235PA
+S0066PA,Flipkart,Zeta Traders,UAE,38.16,shots/S0066PA.png,https://x.test/S0066PA
+S0259PA,BestBuy,Eta Online,USA,13.95,shots/S0259PA.png,https://x.test/S0259PA
+S0274PA,Flipkart,Beta Mart,USA,264.22,shots/S0274PA.png,https://x.test/S0274PA
+S0065PA,BestBuy,Iota Bazaar,UAE,168.47,shots/S0065PA.png,https://x.test/S0065PA
+S0023PA,Amazon.com,Beta Mart,UK,128.74,shots/S0023PA.png,https://x.test/S0023PA
+S0116PA,Walmart,Alpha Tech Pvt Ltd,USA,107.21,shots/S0116PA.png,https://x.test/S0116PA
+S0164PA,Flipkart,Alpha Tech,UK,51.44,shots/S0164PA.png,https://x.test/S0164PA
+S0101PA,BestBuy,Zeta Traders,UAE,155.51,shots/S0101PA.png,https://x.test/S0101PA
+S0279PA,Amazon.in,Zeta Traders,UK,455.65,shots/S0279PA.png,https://x.test/S0279PA
+S0230PA,Flipkart,Alpha Tech,UK,87.98,shots/S0230PA.png,https://x.test/S0230PA
